@@ -1,1 +1,1 @@
-From volcanosh/vc-controller-manager:latest
+From volcanosh/vc-controller-manager@sha256:4ee8c352f069a6c801604fd27c79ef44677567c4b7d804ac27629b6176250383
