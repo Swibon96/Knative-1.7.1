@@ -1,1 +1,1 @@
-From volcanosh/vc-scheduler:latest
+From volcanosh/vc-scheduler@sha256:cc0b3b9c4b85e17d0201f72f38f39cf67f4cf05a973bffbdac05fe53ea3d24c3
